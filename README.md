@@ -2,7 +2,23 @@
 
 ## 🛠️ Languages 'n' tools
 ____
+### Languages
+* <div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>     🟢🟢🟢🟢🟤</div> 
+* <div><img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="EmbC" **alt="EmbC" width="40" height="40"/>     🟢🟢🟢🟢🟤</div> 
+* <div><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Py" width="40" height="40"/>     🟢🟢🟢🟤🟤</div>
+* <div><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>      🟢🟤🟤🟤🟤</div>
+* <div><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>     🟢🟢🟤🟤🟤     
 
+IDEs
+Tools
+Hardware</div> 
+### SVN
+* <div><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></div>
+* 
+### IDEs
+### Tools
+### Hardware
+### RTOS
 ____
 ## 🧮 Stats
 ____
