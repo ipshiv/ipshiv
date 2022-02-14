@@ -1,4 +1,13 @@
-### Hi there 👋
+# Embedded software developer
+
+## 🛠️ Languages 'n' tools
+____
+
+____
+## 🧮 Stats
+____
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipshiv)](https://git.io/streak-stats)
+____
 
 <!--
 **ipshiv/ipshiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
